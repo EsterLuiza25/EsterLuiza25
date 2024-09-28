@@ -1,7 +1,7 @@
-## Olá me chamo: Ester Luiza.
+## Olá, me chamo: Ester Luiza.
 
 
-Estudante de TI
+Estudante de TI, desenvolvendo habilidades back-to-back. Pilot: frontend 
 #
 ![imagem](https://media.licdn.com/dms/image/v2/D4D08AQHYX8mHPuSXBg/croft-frontend-shrinkToFit1024/croft-frontend-shrinkToFit1024/0/1639511743714?e=2147483647&v=beta&t=FlpnErLMBvcPfa_KaPCDCEuqNOote5-ul1od73KCqWA)
 
