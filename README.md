@@ -6,11 +6,11 @@ Estudante de TI, desenvolvendo habilidades back-to-back. Pilot: frontend
 ![imagem](https://media.licdn.com/dms/image/v2/D4D08AQHYX8mHPuSXBg/croft-frontend-shrinkToFit1024/croft-frontend-shrinkToFit1024/0/1639511743714?e=2147483647&v=beta&t=FlpnErLMBvcPfa_KaPCDCEuqNOote5-ul1od73KCqWA)
 
 
-## Conecte-se comigo
+## Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ester-luiza-731a6a248//)
 
 
-# GitHub Status
+## GitHub Status
 
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
