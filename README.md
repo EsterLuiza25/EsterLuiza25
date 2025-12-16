@@ -17,3 +17,9 @@ Estudante de TI, desenvolvendo habilidades back-to-back.
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ##
+---
+<div>
+<a href="https://github.com/MeirejaneChaves605">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsterLuiza25&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=EsterLuiza25&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
