@@ -21,5 +21,20 @@ Estudante de TI, desenvolvendo habilidades back-to-back.
 <div>
 <a href="https://github.com/EsterLuiza25">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsterLuiza25&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=EsterLuiza25&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
