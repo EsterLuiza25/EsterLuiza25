@@ -26,8 +26,7 @@ Estudante de TI, desenvolvendo habilidades back-to-back.
 ## Estou aprendendo..
 
 ---
-<div>
-<a href="https://github.com/EsterLuiza25"/>
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsterLuiza25&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
