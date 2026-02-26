@@ -23,7 +23,7 @@ Estudante de TI, desenvolvendo habilidades back-to-back.
 
           
                                                 
-## Estou aprendendo
+## Estou aprendendo..
 
 ---
 <div>
