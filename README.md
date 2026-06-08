@@ -5,7 +5,7 @@ Estudante de TI, desenvolvendo habilidades back-to-back.
 #
 
 ## Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ester-luiza-731a6a248//)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ester-luiza-731a6a248/)
 
 
 ## GitHub Status
