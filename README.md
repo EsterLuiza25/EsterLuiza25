@@ -18,4 +18,4 @@ Estudante de TI, desenvolvendo habilidades back-to-back.
 ![Django](https://img.shields.io/badge/django-e565223?style=for-the-badge&logo=django&logoColor=white)
 
 
-<img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+<img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/EsterLuiza25/EsterLuiza25/output/github-contribution-grid-snake.svg">
