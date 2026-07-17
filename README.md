@@ -18,4 +18,10 @@ Estudante de TI, desenvolvendo habilidades back-to-back.
 ![Django](https://img.shields.io/badge/django-e565223?style=for-the-badge&logo=django&logoColor=white)
 
 
-<img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/EsterLuiza25/EsterLuiza25/output/github-contribution-grid-snake.svg">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EsterLuiza25/EsterLuiza25/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EsterLuiza25/EsterLuiza25/output/snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/EsterLuiza25/EsterLuiza25/output/snake.svg">
+</picture>
+
+
