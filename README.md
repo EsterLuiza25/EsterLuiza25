@@ -1,7 +1,7 @@
 ## Olá, me chamo: Luiza Campos.
 
 
-Estudante de TI, desenvolvendo habilidades back-to-back. 
+Estudante de TI.
 #
 
 ## Contato
